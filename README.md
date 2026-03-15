@@ -1,5 +1,5 @@
 # Saloon-shastra
-https://shastra-salon-ops.emergent.host/
+
 The Saloon Shastar Landing Page was designed and developed as the entry point for a platform that connects beauty professionals such as salon owners, hairstylists, and makeup artists with potential customers. The goal of the platform is to bring all beauty service providers into a single digital ecosystem, helping professionals increase their visibility, attract more clients, and grow their business.
 
 This landing page introduces the platform’s vision, highlights its core value proposition, and guides users toward exploring the services offered by beauty professionals.
@@ -15,6 +15,7 @@ The UI/UX design was created using Figma, where wireframes and high-fidelity des
 Navigation and User Flow
 
 The landing page focuses on simple navigation and clear call-to-action sections that guide users through the platform. Key sections are organized to help visitors quickly understand:
+https://shastra-salon-ops.emergent.host/
 
 What Saloon Shastar is
 
